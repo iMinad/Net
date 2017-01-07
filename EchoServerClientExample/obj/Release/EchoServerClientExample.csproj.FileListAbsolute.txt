@@ -1,0 +1,8 @@
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\bin\Release\EchoServerClientExample.exe.config
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\bin\Release\EchoServerClientExample.exe
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\bin\Release\EchoServerClientExample.pdb
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\bin\Release\MinadNet.dll
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\bin\Release\MinadNet.pdb
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\obj\Release\EchoServerClientExample.csprojResolveAssemblyReference.cache
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\obj\Release\EchoServerClientExample.exe
+C:\Users\Eetu97\documents\visual studio 2015\Projects\MinadNet\EchoServerClientExample\obj\Release\EchoServerClientExample.pdb

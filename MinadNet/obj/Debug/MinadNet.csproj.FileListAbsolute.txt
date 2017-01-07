@@ -1,0 +1,5 @@
+c:\users\eetu97\documents\visual studio 2015\Projects\MinadNet\MinadNet\bin\Debug\MinadNet.dll
+c:\users\eetu97\documents\visual studio 2015\Projects\MinadNet\MinadNet\bin\Debug\MinadNet.pdb
+c:\users\eetu97\documents\visual studio 2015\Projects\MinadNet\MinadNet\obj\Debug\MinadNet.dll
+c:\users\eetu97\documents\visual studio 2015\Projects\MinadNet\MinadNet\obj\Debug\MinadNet.pdb
+c:\users\eetu97\documents\visual studio 2015\Projects\MinadNet\MinadNet\obj\Debug\MinadNet.csprojResolveAssemblyReference.cache
